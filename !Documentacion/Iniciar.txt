@@ -1,0 +1,29 @@
+// como arrancar en next
+
+Abre la consola con control + ñ y escribe
+
+cd my-app
+
+npm run dev -- --webpack
+
+entra en la URL al index 
+http://localhost:3000/proyectos
+
+Otras URL 
+http://localhost:3000/login
+http://localhost:3000/register
+http://localhost:3000/proyectos/1/resenas
+http://localhost:3000/proyectos/admin
+
+
+// usuario maestro 
+    tiene permisos: para crear, editar, borrar juegos de la web / poner 1 reseña por juego
+-> nombre:      megalol84z 
+-> contraseña:  squall84z
+
+// usuarios normales
+    poner 1 reseña por juego
+-> nombre:      Pepe
+-> contraseña:  123456
+
+Notas: no es posible crear mas usuarios maestros
