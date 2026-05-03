@@ -93,26 +93,18 @@ Panel admin: http://localhost:3000/proyectos/admin
 
 ---
 👤 Usuario administrador
-usuario: megalol84z
-password: squall84z
-
----
-
-📌 Estado del proyecto
-
-✔️ Proyecto completamente funcional
-✔️ Cumple los requisitos de la práctica DAW
-✔️ Incluye funcionalidades extra (reseñas y control de usuarios)
+- usuario: megalol84z
+- password: squall84z
 
 ---
 🚀 Mejoras futuras
-Mejorar UI/UX separando el CSS de todos los elementos
-Sistema de autenticación más seguro (cookies/JWT)
-Edición de reseñas tanto de los usuarios como del gestor
-Subida de imágenes de juegos desde el PC
+- Mejorar UI/UX separando el CSS de todos los elementos
+- Sistema de autenticación más seguro (cookies/JWT)
+- Edición de reseñas tanto de los usuarios como del gestor
+- Subida de imágenes de juegos desde el PC
 
 ---
 
 👨‍💻 Autor
-Desarrollado por José Luis Escudero Polo (megalol-dev)
-Pueden usar mi proyecto para aprender y crear sus propios proyectos
+- Desarrollado por José Luis Escudero Polo (megalol-dev)
+- Pueden usar mi proyecto para aprender y crear sus propios proyectos
